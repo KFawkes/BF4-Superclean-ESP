@@ -1,4 +1,4 @@
-# bf4superclean
+# BF4Superclean
  
 Battlefield 4 is a great game to start learning with
 
